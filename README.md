@@ -1,12 +1,12 @@
 
 # Widget Notification
 
-Um widget criado utilizando Next JS, tailwindcss, tailwind-merge e pattern de composição.
+Um widget criado utilizando NextJS, tailwindcss, tailwind-merge e pattern de composição.
 
 
 ## Instalação
 
-Basta clonar este repositório e comece a utilizar
+Basta clonar este repositório e começar a utilizar
 
 ```bash
   git clone https://github.com/cmoraes5/CompositionPattern
@@ -15,11 +15,11 @@ Basta clonar este repositório e comece a utilizar
     
 ## Demonstração
 
-Try this markdown:
+<div align="center">
 
 ![alt text](./assets/print.gif)
 
-
+</div>
 
 ## Começando
 
@@ -37,7 +37,8 @@ pnpm dev
 
 Abra em http://localhost:3000 com seu navegador para ver o resultado.
 
-O projeto usa next/font para otimizar e carregar automaticamente a font Inter, da Google.
+O projeto usa next/font para otimizar e carregar automaticamente a fonte Inter, do Google Fonts.
+
 ## Leia mais sobre
 
 Para aprender mais sobre Next.js e tailwindcss, dê uma olhada nos links abaixo:
